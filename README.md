@@ -1,4 +1,4 @@
-# BYOP
+# Analyzing the impacts of BYOP
 This repository is still under construction, but we will update this soon with the code behind our report analyzing Bring Your Own Power (BYOP) projects for data centers.
 
 
