@@ -1,6 +1,7 @@
 # Analyzing the impacts of BYOP
 This repository is still under construction, but we will update this soon with the code behind our report analyzing Bring Your Own Power (BYOP) projects for data centers.
 
+The full dataset can be found [here](https://docs.google.com/spreadsheets/d/1Pl4FgCxeDJ2Dc4P8TlF33bf7IdqPpyikRd4-VX64jrQ/edit?gid=1580942818#gid=1580942818).
 
 ![Map of gas BYOP projects with capacity and generation estimates.](Map-of-gas-BYOP-projects-with-capacity-barplot.png)
 
