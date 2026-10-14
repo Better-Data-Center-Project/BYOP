@@ -9,3 +9,6 @@ Read the full report at https://earthjustice.org/byop.
 
 [*The AI Gas Rush: Risks and Implications of "Bring Your Own Power"*](https://earthjustice.org/byop). Better Data Center Project and Earthjustice. October 2026.
 
+## License
+
+The data of this project is licensed under the [Creative Commons Attribution 4.0 license (CC-BY-4.0)](https://creativecommons.org/licenses/by/4.0/), and the accompanying analysis and visualization code is licensed under the [MIT license](LICENSE.md).
